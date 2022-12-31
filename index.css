@@ -1,0 +1,55 @@
+h1 {
+  position: fixed;
+  text-align: center;
+  font-family: Futura;
+  left: 36%;
+  top: 26%;
+  color: white;
+  opacity: 90%;
+  font-size: 45px;
+}
+p {
+  position: absolute;
+  width: 1543px;
+  top: 245px;
+  left: -1%;
+  right: 0%;
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  font-family: Futura;
+  opacity: 100%;
+  color: white;
+  text-decoration: solid;
+}
+
+#kotak {
+  opacity: 100%;
+  position: fixed;
+  top: 16px;
+  border-style: double;
+  left: 1%;
+  width: 1495px;
+  height: 680px;
+  border-color: white;
+  border-width: 5px;
+}
+
+img {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1536px;
+  height: 722px;
+}
+#black{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 1536px;
+    height: 722px;
+    background-color: black;
+    opacity: 17%;
+}
