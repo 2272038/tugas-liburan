@@ -1,11 +1,11 @@
 h1 {
-    
-  position: fixed;
+  margin: 0,0,0,5;
+  position: absolute;
   width: 100%;
   text-align: center;
   font-family: Futura;
   height: 100%;
-  top:25%;
+  top: 25%;
   color: white;
   opacity: 90%;
   font-size: 45px;
@@ -43,13 +43,13 @@ img {
   width: 100%;
   height: 100%;
 }
-#black{
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    width: 100%;
-    height: 100%;
-    background-color: black;
-    opacity: 17%;
+#black {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 17%;
 }
