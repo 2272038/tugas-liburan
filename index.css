@@ -5,11 +5,12 @@ body{
 
 h1 {
   position: fixed;
+  position: relative;
   width: 100%;
   text-align: center;
   font-family: Futura;
   height: 100%;
-  top: 25%;
+  top: 170px;
   color: white;
   opacity: 90%;
   font-size: 45px;
@@ -17,7 +18,7 @@ h1 {
 p {
   position: fixed;
   width: 100%;
-  top: 215px;
+  top: 170px;
   text-align: center;
   font-size: 30px;
   position: relative;
