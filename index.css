@@ -1,19 +1,19 @@
 h1 {
+    
   position: fixed;
+  width: 100%;
   text-align: center;
   font-family: Futura;
-  left: 36%;
-  top: 26%;
+  height: 100%;
+  top:25%;
   color: white;
   opacity: 90%;
   font-size: 45px;
 }
 p {
   position: absolute;
-  width: 1543px;
+  width: 100%;
   top: 245px;
-  left: -1%;
-  right: 0%;
   text-align: center;
   font-size: 30px;
   position: relative;
@@ -29,8 +29,8 @@ p {
   top: 16px;
   border-style: double;
   left: 1%;
-  width: 1495px;
-  height: 680px;
+  width: 97.3%;
+  height: 94%;
   border-color: white;
   border-width: 5px;
 }
@@ -40,16 +40,16 @@ img {
   top: 0px;
   left: 0px;
   right: 0px;
-  width: 1536px;
-  height: 722px;
+  width: 100%;
+  height: 100%;
 }
 #black{
     position: fixed;
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 1536px;
-    height: 722px;
+    width: 100%;
+    height: 100%;
     background-color: black;
     opacity: 17%;
 }
